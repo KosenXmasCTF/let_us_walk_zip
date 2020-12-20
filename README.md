@@ -7,9 +7,11 @@
 
 ## Files
 
-main.zip
+- main.zip
 
 ## Build
+
+以下のコマンドを実行すると、全自動でフラグからmain.zipを作成できる
 
 ```
 bash ./make.sh
